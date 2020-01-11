@@ -1,3 +1,4 @@
+<div style="margin: 0 auto; width: 50%; font-weight: normal;">
 <h1 style="font-size: 92px; margin-bottom: -5px;">FiveM Community Commands</h1>
 <img alt="Server Sided" src="https://i.imgur.com/fpAWLuB.png" width="200">
 <p>FiveM Coummunity Commands is a Server Sided Script made to provide you
