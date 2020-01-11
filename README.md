@@ -1,5 +1,5 @@
 <h1 style="font-size: 92px; margin-bottom: -5px;">FiveM Community Commands</h1>
-<div style="margin: 0 auto; width: 50%; font-weight: normal;">
+<div style="margin: 0 auto; width: 75%; font-weight: normal;">
 <img alt="Server Sided" src="https://i.imgur.com/fpAWLuB.png" width="200">
 <p>FiveM Coummunity Commands is a Server Sided Script made to provide you
    With All Your Essential Roleplay Commands (/911, /dispatch & More)</p>
